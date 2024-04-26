@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Projects\\ProjectTowerDefense\\Source\\ProjectTowerDefense\\ProjectTowerDefense.Build.cs",
+		"D:\\Projects\\ProjectTowerDefense\\Source\\ProjectTowerDefense.Target.cs",
+		"D:\\Projects\\ProjectTowerDefense\\Source\\ProjectTowerDefenseEditor.Target.cs"
+	],
+	"EngineVersion": "5.4.0"
+}

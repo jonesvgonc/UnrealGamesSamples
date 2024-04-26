@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\projects\\projecttowerdefense\\intermediate\\build\\win64\\unrealeditor\\inc\\projecttowerdefense\\uht\\projecttowerdefensegamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\projects\\projecttowerdefense\\intermediate\\build\\win64\\x64\\projecttowerdefenseeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\projects\\projecttowerdefense\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\projecttowerdefense\\definitions.projecttowerdefense.h",
+            "d:\\projects\\projecttowerdefense\\source\\projecttowerdefense\\projecttowerdefensegamemode.h",
+            "d:\\epic\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "d:\\epic\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "d:\\epic\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "d:\\epic\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "d:\\projects\\projecttowerdefense\\intermediate\\build\\win64\\unrealeditor\\inc\\projecttowerdefense\\uht\\projecttowerdefensegamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

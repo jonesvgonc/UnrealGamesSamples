@@ -1,0 +1,29 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\projects\\projecttowerdefense\\source\\projecttowerdefense\\projecttowerdefensegamemode.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\projects\\projecttowerdefense\\intermediate\\build\\win64\\x64\\projecttowerdefenseeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\projects\\projecttowerdefense\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\projecttowerdefense\\definitions.projecttowerdefense.h",
+            "d:\\projects\\projecttowerdefense\\source\\projecttowerdefense\\projecttowerdefensegamemode.h",
+            "d:\\epic\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "d:\\epic\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "d:\\epic\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "d:\\epic\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "d:\\projects\\projecttowerdefense\\intermediate\\build\\win64\\unrealeditor\\inc\\projecttowerdefense\\uht\\projecttowerdefensegamemode.generated.h",
+            "d:\\projects\\projecttowerdefense\\source\\projecttowerdefense\\projecttowerdefensecharacter.h",
+            "d:\\epic\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "d:\\epic\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "d:\\epic\\ue_5.4\\engine\\source\\runtime\\experimental\\iris\\core\\public\\iris\\serialization\\irisobjectreferencepackagemap.h",
+            "d:\\epic\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\iriscore\\uht\\irisobjectreferencepackagemap.generated.h",
+            "d:\\epic\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementreplication.generated.h",
+            "d:\\epic\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "d:\\epic\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
+            "d:\\epic\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
+            "d:\\projects\\projecttowerdefense\\intermediate\\build\\win64\\unrealeditor\\inc\\projecttowerdefense\\uht\\projecttowerdefensecharacter.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\projects\\projecttowerdefense\\intermediate\\build\\win64\\unrealeditor\\inc\\projecttowerdefense\\uht\\projecttowerdefense.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\projects\\projecttowerdefense\\intermediate\\build\\win64\\x64\\projecttowerdefenseeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\projects\\projecttowerdefense\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\projecttowerdefense\\definitions.projecttowerdefense.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

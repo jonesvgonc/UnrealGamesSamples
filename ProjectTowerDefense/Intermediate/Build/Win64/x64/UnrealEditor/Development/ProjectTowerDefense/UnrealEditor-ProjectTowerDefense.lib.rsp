@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ProjectTowerDefense.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Projects\ProjectTowerDefense\Intermediate\Build\Win64\x64\ProjectTowerDefenseEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"D:\Projects\ProjectTowerDefense\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProjectTowerDefense\ProjectTowerDefense.init.gen.cpp.obj"
+"D:\Projects\ProjectTowerDefense\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProjectTowerDefense\ProjectTowerDefenseCharacter.gen.cpp.obj"
+"D:\Projects\ProjectTowerDefense\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProjectTowerDefense\ProjectTowerDefenseGameMode.gen.cpp.obj"
+"D:\Projects\ProjectTowerDefense\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProjectTowerDefense\ProjectTowerDefense.cpp.obj"
+"D:\Projects\ProjectTowerDefense\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProjectTowerDefense\ProjectTowerDefenseCharacter.cpp.obj"
+"D:\Projects\ProjectTowerDefense\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProjectTowerDefense\ProjectTowerDefenseGameMode.cpp.obj"
+"D:\Projects\ProjectTowerDefense\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProjectTowerDefense\Default.rc2.res"
+/OUT:"D:\Projects\ProjectTowerDefense\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProjectTowerDefense\UnrealEditor-ProjectTowerDefense.lib"
